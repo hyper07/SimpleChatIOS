@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MembersViewController.tableView(_:numberOfRowsInSection:):MembersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberMap">
+            </PersistentString>
+            <PersistentString
+               value = "memberMap.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MembersViewController.viewDidLoad():MembersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberMap">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SocketIOManager.(listenForOtherMessages() -&gt; ()).(closure #2):SocketIOManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ActiveLabel.touchesEnded(_:with:):ActiveLabel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.updateStatus(_:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "status.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SocketStringReader.readUntilOccurence(of:):SocketStringReader.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AppDelegate.addMember(roomID:member:):AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.tableView(_:didSelectRowAt:):RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberResults.count">
+            </PersistentString>
+            <PersistentString
+               value = "memberList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatBubble.init(data:startY:):ChatBubble.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.makeSectionData():RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "room[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.userNotificationCenter(_:willPresent:withCompletionHandler:):RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.request.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Object.toDictionary():Object+Ext.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginController.(login_now(username : String, password : String) -&gt; ()).(closure #1):LoginController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "server_response[&quot;status&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatBubbleData.getCreatedDate():ChatBubbleData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.tableView(_:cellForRowAt:):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.prepareTalk() -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastChatID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.(updateUnreadMsg() -&gt; ()).(closure #1).(closure #1):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in RoomsViewController.addMembers(_:_:):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SocketStringReader.advance(by:):SocketStringReader.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message">
+            </PersistentString>
+            <PersistentString
+               value = "currentIndex">
+            </PersistentString>
+            <PersistentString
+               value = "current.encodedOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.numberOfSections(in : UITableView) -&gt; Int:RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sectionMap">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.viewDidLoad() -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "attachThumb">
+            </PersistentString>
+            <PersistentString
+               value = "roomMemo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TimeZone.current.secondsFromGMT()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MembersViewController.viewDidAppear(_:):MembersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberMap">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.(viewDidLoad() -&gt; ()).(closure #1):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastChatID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in RoomsViewController.loadRoom():RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CLImageViewPopup.exitFullScreen(gesture:):CLImageViewPopup.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AppDelegate.updateProfilePhoto(accountName:base64Photo:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "accountName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.(loadInvitedRoom() -&gt; ()).(closure #1).(closure #1):RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "existMembers.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in AppDelegate.addMember(roomID:member:):AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.loadMembersFromRealm():RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberResults.count">
+            </PersistentString>
+            <PersistentString
+               value = "rooms">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Results.toArray&lt;A&gt;(ofType:):Results.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self[i]">
+            </PersistentString>
+            <PersistentString
+               value = "T">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SocketIOManager.(connectToServerWithNickname(String, String, completionHandler : ([[String : AnyObject]]?) -&gt; ()) -&gt; ()).(closure #1):SocketIOManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.loadHistory(page : Int, onlyNew : Bool) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastChatID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.(loadHistory(page : Int, onlyNew : Bool) -&gt; ()).(closure #1):ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoViewController.(loadImage(chatID : Int) -&gt; ()).(closure #1).(closure #1):PhotoViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "roomMemo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatBubbleData.getProfileImage(_:):ChatBubbleData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "foundMember?.thumbnailphoto">
+            </PersistentString>
+            <PersistentString
+               value = "foundMember.thumbnailphoto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.updateStatus(AppDelegate.APPSTATUS) -&gt; ():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.(loadRoom() -&gt; ()).(closure #1).(closure #1):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.getProfileImage(_:):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.memberMap">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.imagePickerController(UIImagePickerController, didFinishPickingMediaWithInfo : [String : Any]) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.addMembers(_:):RoomsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "member">
+            </PersistentString>
+            <PersistentString
+               value = "memberList.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomsViewController.updateMembers(_:_:):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in AppDelegate.registerForPushNotifications(_:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIApplicationOpenSettingsURLString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SocketStringReader.read(count:):SocketStringReader.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message">
+            </PersistentString>
+            <PersistentString
+               value = "currentIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in RoomsViewController.loadMembers(_:):RoomsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SocketStringReader.init(message:):SocketStringReader.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in AppDelegate.loadRoomWithMember(accountName:):AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.getProfileImage(String) -&gt; UIImage:ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memberMap">
+            </PersistentString>
+            <PersistentString
+               value = "member.allKeys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.didMove(toParentViewController : UIViewController?) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "attachThumb">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.updateMemberTable():AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.appIsStarting">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.prepare(for:sender:):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.memberMap">
+            </PersistentString>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CLImageViewPopup.loadPhoto():CLImageViewPopup.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "msgID">
+            </PersistentString>
+            <PersistentString
+               value = "self.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemberCell.setMember(_:):MemberCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MembersViewController.tableView(_:didSelectRowAt:):MembersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "alert">
+            </PersistentString>
+            <PersistentString
+               value = "imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didReceiveRemoteNotification:fetchCompletionHandler:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userInfo[&quot;categoryIdentifier&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CLImageViewPopup.onTapGesture():CLImageViewPopup.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SocketStringReader.currentCharacter.getter:SocketStringReader.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message">
+            </PersistentString>
+            <PersistentString
+               value = "currentIndex.encodedOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.addMember(roomID:member:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "realm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
