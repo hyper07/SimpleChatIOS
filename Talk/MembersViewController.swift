@@ -130,10 +130,10 @@ class MembersViewController: UIViewController, UITableViewDelegate, UITableViewD
     
     func configureNavigationBar() {
         //navigationItem.backBarButtonItem?.title = "Logout";
-        //navigationItem.title = "Kiss Talk"
+        //navigationItem.title = "Talk"
         
         if let version = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String {
-            self.title = "Kiss Talk - V" + version;
+            self.title = "Talk - V" + version;
         }
     }
     

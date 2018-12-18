@@ -70,7 +70,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
             
             guard granted else {
                 
-                let alertController = UIAlertController (title: "Permission Error", message: "You need to allow for Push Notification in order to use Kiss Talk.", preferredStyle: .alert)
+                let alertController = UIAlertController (title: "Permission Error", message: "You need to allow for Push Notification in order to use Talk.", preferredStyle: .alert)
                 
                 let settingsAction = UIAlertAction(title: "Settings", style: .default) { (_) -> Void in
                     guard let settingsUrl = URL(string: "\(UIApplicationOpenSettingsURLString)Talk") else {
