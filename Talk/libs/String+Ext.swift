@@ -1,6 +1,6 @@
 //
 //  String+Ext.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 11/17/17.
 //  Copyright © 2017 AppCoda. All rights reserved.

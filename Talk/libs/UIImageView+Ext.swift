@@ -1,6 +1,6 @@
 //
 //  UIImageView+Ext.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 10/24/17.
 //  Copyright © 2017 AppCoda. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  UIApplication+Ext.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 4/6/18.
 //  Copyright © 2018 AppCoda. All rights reserved.

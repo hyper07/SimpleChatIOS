@@ -6,7 +6,7 @@
 //  Copyright © 2016 AppCoda. All rights reserved.
 //
 
-import UIKit
+import UIKitkey
 
 class SocketIOManager: NSObject {
     static let sharedInstance = SocketIOManager()

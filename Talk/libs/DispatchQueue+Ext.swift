@@ -1,6 +1,6 @@
 //
 //  DispatchQueue+Ext.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 1/25/18.
 //  Copyright © 2018 AppCoda. All rights reserved.

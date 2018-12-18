@@ -1,6 +1,6 @@
 //
 //  SettingController.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 12/5/17.
 //  Copyright © 2017 AppCoda. All rights reserved.

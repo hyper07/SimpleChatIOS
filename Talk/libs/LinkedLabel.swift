@@ -1,6 +1,6 @@
 //
 //  LinkedLabel.swift
-//  KissTalk
+//  Talk
 //
 //  Created by Kibaek Kim on 12/15/17.
 //  Copyright © 2017 AppCoda. All rights reserved.
